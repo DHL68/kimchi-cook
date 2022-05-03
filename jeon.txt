@@ -9,3 +9,8 @@
 8. 아무거나 적아보아요
 9. 과자 맛있다.
 10. 테스트
+<<<<<<< HEAD
+=======
+11. asdzxczsd
+12. asdasdasd
+>>>>>>> kimchi-sub
